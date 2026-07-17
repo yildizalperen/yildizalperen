@@ -1,8 +1,10 @@
 # Hi 👋, I'm Alperen Yıldız
 
-### .NET Full Stack Developer from Türkiye
+### 💻 .NET Full Stack Developer
 
-I build modern web applications using ASP.NET Core, React and SQL Server.
+Passionate about building scalable web applications with ASP.NET Core, React and SQL Server.
+
+📍 Istanbul, Türkiye
 
 🚀 Currently improving my skills in .NET ecosystem, REST APIs, SQL Server and modern frontend development.
 
